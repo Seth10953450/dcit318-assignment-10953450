@@ -1,0 +1,15 @@
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.deps.json
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.runtimeconfig.json
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.dll
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.pdb
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.csproj.AssemblyReference.cache
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.AssemblyInfoInputs.cache
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.AssemblyInfo.cs
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.csproj.CoreCompileInputs.cache
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.dll
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/obj/Debug/net7.0/refint/Ticket Price Calculator.dll
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.pdb
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.genruntimeconfig.cache
+/Users/mac/dcit318-assignment-10953450/dcit318-assignment1/Ticket Price Calculator/obj/Debug/net7.0/ref/Ticket Price Calculator.dll
